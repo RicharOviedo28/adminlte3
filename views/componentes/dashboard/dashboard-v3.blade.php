@@ -230,9 +230,9 @@
 </div>
 @endsection
 @section('scripts')
-<script src="{{ asset('plugins/chart.js/Chart.min.js') }}"></script>
-<script src="{{ asset('dist/js/demo.js') }}"></script>
-<script src="{{ asset('dist/js/pages/dashboard3.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/chart.js/Chart.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/dist/js/demo.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/dist/js/pages/dashboard3.js') }}"></script>
 @endsection
 @section('css')
 <!-- Sin CSS -->

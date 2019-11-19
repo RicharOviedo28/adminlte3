@@ -305,7 +305,7 @@
 </div>
 @endsection
 @section('scripts')
-<script src="{{ asset('plugins/slimScroll/jquery.slimscroll.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/slimScroll/jquery.slimscroll.min.js') }}"></script>
 @endsection
 @section('css')
 <!-- Sin CSS -->

@@ -880,9 +880,9 @@
 </div>
 @endsection
 @section('scripts')
-<script src="{{ asset('plugins/datatables/jquery.dataTables.js') }}"></script>
-<script src="{{ asset('plugins/datatables/dataTables.bootstrap4.js') }}"></script>
-<script src="{{ asset('plugins/slimScroll/jquery.slimscroll.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/datatables/jquery.dataTables.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/datatables/dataTables.bootstrap4.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/slimScroll/jquery.slimscroll.min.js') }}"></script>
 <script>
     $(function () {
         $("#example1").DataTable();
@@ -899,5 +899,5 @@
 </script>
 @endsection
 @section('css')
-<link rel="stylesheet" href="{{ asset('plugins/datatables/dataTables.bootstrap4.css') }}">
+<link rel="stylesheet" href="{{ asset('wolfsyncro/adminlte3/plugins/datatables/dataTables.bootstrap4.css') }}">
 @endsection

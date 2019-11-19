@@ -72,7 +72,7 @@
 </div>
 @endsection
 @section('scripts')
-<script src="{{ asset('plugins/chartjs-old/Chart.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/chartjs-old/Chart.min.js') }}"></script>
 <script>
     $(function () {
         /* ChartJS

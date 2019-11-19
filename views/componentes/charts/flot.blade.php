@@ -103,10 +103,10 @@
 @endsection
 @section('scripts')
 
-<script src="{{ asset('plugins/flot/jquery.flot.min.js') }}"></script>
-<script src="{{ asset('plugins/flot/jquery.flot.resize.min.js') }}"></script>
-<script src="{{ asset('plugins/flot/jquery.flot.pie.min.js') }}"></script>
-<script src="{{ asset('plugins/flot/jquery.flot.categories.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/flot/jquery.flot.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/flot/jquery.flot.resize.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/flot/jquery.flot.pie.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/flot/jquery.flot.categories.min.js') }}"></script>
 
 <!-- Page script -->
 <script>

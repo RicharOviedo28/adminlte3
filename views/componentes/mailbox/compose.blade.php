@@ -127,9 +127,9 @@
 </div>
 @endsection
 @section('scripts')
-<script src="{{ asset('plugins/slimScroll/jquery.slimscroll.min.js') }}"></script>
-<script src="{{ asset('plugins/iCheck/icheck.min.js') }}"></script>
-<script src="{{ asset('plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/slimScroll/jquery.slimscroll.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/iCheck/icheck.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js') }}"></script>
 <script>
     $(function () {
         //Add text editor
@@ -138,6 +138,6 @@
 </script>
 @endsection
 @section('css')
-<link rel="stylesheet" href="{{ asset('plugins/iCheck/flat/blue.css') }}">
-<link rel="stylesheet" href="{{ asset('plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css') }}">
+<link rel="stylesheet" href="{{ asset('wolfsyncro/adminlte3/plugins/iCheck/flat/blue.css') }}">
+<link rel="stylesheet" href="{{ asset('wolfsyncro/adminlte3/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css') }}">
 @endsection

@@ -281,16 +281,16 @@
 </div>
 @endsection
 @section('scripts')
-<script src="{{ asset('plugins/select2/select2.full.min.js') }}"></script>
-<script src="{{ asset('plugins/input-mask/jquery.inputmask.js') }}"></script>
-<script src="{{ asset('plugins/input-mask/jquery.inputmask.date.extensions.js') }}"></script>
-<script src="{{ asset('plugins/input-mask/jquery.inputmask.extensions.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/select2/select2.full.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/input-mask/jquery.inputmask.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/input-mask/jquery.inputmask.date.extensions.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/input-mask/jquery.inputmask.extensions.js') }}"></script>
 <script src="{{ asset('https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.2/moment.min.js') }}"></script>
-<script src="{{ asset('plugins/daterangepicker/daterangepicker.js') }}"></script>
-<script src="{{ asset('plugins/colorpicker/bootstrap-colorpicker.min.js') }}"></script>
-<script src="{{ asset('plugins/timepicker/bootstrap-timepicker.min.js') }}"></script>
-<script src="{{ asset('plugins/slimScroll/jquery.slimscroll.min.js') }}"></script>
-<script src="{{ asset('plugins/iCheck/icheck.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/daterangepicker/daterangepicker.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/colorpicker/bootstrap-colorpicker.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/timepicker/bootstrap-timepicker.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/slimScroll/jquery.slimscroll.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/iCheck/icheck.min.js') }}"></script>
 <script>
     $(function () {
         //Initialize Select2 Elements
@@ -365,9 +365,9 @@
 </script>
 @endsection
 @section('css')
-<link rel="stylesheet" href="{{ asset('plugins/daterangepicker/daterangepicker-bs3.css') }}">
-<link rel="stylesheet" href="{{ asset('plugins/iCheck/all.css') }}">
-<link rel="stylesheet" href="{{ asset('plugins/colorpicker/bootstrap-colorpicker.min.css') }}">
-<link rel="stylesheet" href="{{ asset('plugins/timepicker/bootstrap-timepicker.min.css') }}">
-<link rel="stylesheet" href="{{ asset('plugins/select2/select2.min.css') }}">
+<link rel="stylesheet" href="{{ asset('wolfsyncro/adminlte3/plugins/daterangepicker/daterangepicker-bs3.css') }}">
+<link rel="stylesheet" href="{{ asset('wolfsyncro/adminlte3/plugins/iCheck/all.css') }}">
+<link rel="stylesheet" href="{{ asset('wolfsyncro/adminlte3/plugins/colorpicker/bootstrap-colorpicker.min.css') }}">
+<link rel="stylesheet" href="{{ asset('wolfsyncro/adminlte3/plugins/timepicker/bootstrap-timepicker.min.css') }}">
+<link rel="stylesheet" href="{{ asset('wolfsyncro/adminlte3/plugins/select2/select2.min.css') }}">
 @endsection

@@ -658,13 +658,13 @@
 </div>
 @endsection
 @section('scripts')
-<script src="{{ asset('dist/js/demo.js') }}"></script>
-<script src="{{ asset('plugins/sparkline/jquery.sparkline.min.js') }}"></script>
-<script src="{{ asset('plugins/jvectormap/jquery-jvectormap-1.2.2.min.js') }}"></script>
-<script src="{{ asset('plugins/jvectormap/jquery-jvectormap-world-mill-en.js') }}"></script>
-<script src="{{ asset('plugins/chartjs-old/Chart.min.js') }}"></script>
-<script src="{{ asset('dist/js/pages/dashboard2.js') }}"></script>
-<script src="{{ asset('plugins/slimScroll/jquery.slimscroll.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/dist/js/demo.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/sparkline/jquery.sparkline.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/jvectormap/jquery-jvectormap-world-mill-en.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/chartjs-old/Chart.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/dist/js/pages/dashboard2.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/slimScroll/jquery.slimscroll.min.js') }}"></script>
 @endsection
 @section('css')
 <!-- Sin CSS -->

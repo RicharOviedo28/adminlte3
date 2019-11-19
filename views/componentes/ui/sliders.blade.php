@@ -109,8 +109,8 @@
 </div>
 @endsection
 @section('scripts')
-<script src="{{ asset('plugins/ionslider/ion.rangeSlider.min.js') }}"></script>
-<script src="{{ asset('plugins/bootstrap-slider/bootstrap-slider.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/ionslider/ion.rangeSlider.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/bootstrap-slider/bootstrap-slider.js') }}"></script>
 <script>
     $(function () {
         /* BOOTSTRAP SLIDER */
@@ -180,7 +180,7 @@
 </script>
 @endsection
 @section('css')
-<link rel="stylesheet" href="{{ asset('plugins/ionslider/ion.rangeSlider.css') }}">
-<link rel="stylesheet" href="{{ asset('plugins/ionslider/ion.rangeSlider.skinNice.css') }}">
-<link rel="stylesheet" href="{{ asset('plugins/bootstrap-slider/slider.css') }}">
+<link rel="stylesheet" href="{{ asset('wolfsyncro/adminlte3/plugins/ionslider/ion.rangeSlider.css') }}">
+<link rel="stylesheet" href="{{ asset('wolfsyncro/adminlte3/plugins/ionslider/ion.rangeSlider.skinNice.css') }}">
+<link rel="stylesheet" href="{{ asset('wolfsyncro/adminlte3/plugins/bootstrap-slider/slider.css') }}">
 @endsection

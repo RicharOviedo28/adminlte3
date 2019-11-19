@@ -62,8 +62,8 @@
 </div>
 @endsection
 @section('scripts')
-<script src="{{ asset('plugins/ckeditor/ckeditor.js') }}"></script>
-<script src="{{ asset('plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/ckeditor/ckeditor.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js') }}"></script>
 <script>
     $(function () {
         // Replace the <textarea id="editor1"> with a CKEditor
@@ -87,5 +87,5 @@
 </script>
 @endsection
 @section('css')
-<link rel="stylesheet" href="{{ asset('plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css') }}">
+<link rel="stylesheet" href="{{ asset('wolfsyncro/adminlte3/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css') }}">
 @endsection

@@ -311,8 +311,8 @@
 </div>
 @endsection
 @section('scripts')
-<script src="{{ asset('plugins/slimScroll/jquery.slimscroll.min.js') }}"></script>
-<script src="{{ asset('plugins/iCheck/icheck.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/slimScroll/jquery.slimscroll.min.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/plugins/iCheck/icheck.min.js') }}"></script>
 <script>
     $(function () {
         //Enable iCheck plugin for checkboxes
@@ -359,8 +359,8 @@
     })
 
 </script>
-<script src="{{ asset('dist/js/demo.js') }}"></script>
+<script src="{{ asset('wolfsyncro/adminlte3/dist/js/demo.js') }}"></script>
 @endsection
 @section('css')
-<link rel="stylesheet" href="{{ asset('plugins/iCheck/flat/blue.css') }}">
+<link rel="stylesheet" href="{{ asset('wolfsyncro/adminlte3/plugins/iCheck/flat/blue.css') }}">
 @endsection
