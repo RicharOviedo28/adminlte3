@@ -1,0 +1,14 @@
+{
+    "name": "wolfsyncro/adminlte3",
+    "description": "AdminLTE 3 para Laravel",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Richar Oviedo",
+            "email": "richareduaro28@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
