@@ -2,6 +2,7 @@
     "name": "wolfsyncro/adminlte3",   
     "description": "AdminLTE 3 para Laravel",    
     "license": "MIT",
+    "type": "composer-plugin",
     "authors": [
         {
             "name": "Richar Oviedo",
@@ -17,6 +18,7 @@
             "wolfsyncro\\adminlte3\\": "vendor/wolfsyncro/adminlte3/src"
         }
     }
+
    
 
 }
