@@ -10,12 +10,12 @@
         }
     ],
 
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {},   
   
     "autoload": {
         "psr-4": {
-            "wolfsyncro\\adminlte3\\": "vendor/wolfsyncro/adminlte3/src"
+            "wolfsyncro\\adminlte3\\": "src/"
         }
     }
 
