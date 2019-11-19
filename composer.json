@@ -14,5 +14,13 @@
             "psr-4": {
             "wolfsyncro\\adminlte3\\": "vendor/wolfsyncro/adminlte3/src"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "wolfsyncro\\adminlte3\\Adminlte3ServiceProvider"
+            ]            
+        }
     }
+
 }
