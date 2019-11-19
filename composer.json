@@ -1,7 +1,6 @@
 {
     "name": "wolfsyncro/adminlte3",
-    "description": "AdminLTE 3 para Laravel",
-    "type": "project",
+    "description": "AdminLTE 3 para Laravel",    
     "license": "MIT",
     "authors": [
         {
