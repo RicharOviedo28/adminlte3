@@ -10,18 +10,12 @@
     ],
 
     "minimum-stability": "dev",
-    "require": {},
-    "extra": {
-        "laravel": {
-            "providers": [
-                "wolfsyncro\\adminlte3\\Adminlte3ServiceProvider"
-            ]            
-        }
-    },
+    "require": {},   
+  
     "autoload": {
         "psr-4": {
-        "wolfsyncro\\adminlte3\\": "vendor/wolfsyncro/adminlte3/src"
-                 }
+            "wolfsyncro\\adminlte3\\": "vendor/wolfsyncro/adminlte3/src"
+        }
     }
    
 
