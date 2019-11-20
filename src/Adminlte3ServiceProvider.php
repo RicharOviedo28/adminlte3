@@ -3,6 +3,7 @@
 namespace wolfsyncro\adminlte3;
 
 use Illuminate\Support\ServiceProvider;
+use Illuminate\Support\Facades\Route;
 
 class Adminlte3ServiceProvider extends ServiceProvider
 {
