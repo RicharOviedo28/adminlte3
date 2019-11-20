@@ -211,7 +211,7 @@
                                     <span class="direct-chat-name float-left">Alexander Pierce</span>
                                     <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
                                 </div>
-                                <img class="direct-chat-img" src="{{url('wolfsynro/adminlte3/dist/img/user1-128x128.jpg')}}" alt="message user image">
+                                <img class="direct-chat-img" src="{{url('wolfsyncro/adminlte3/dist/img/user1-128x128.jpg')}}" alt="message user image">
                                 <div class="direct-chat-text">
                                     Is this template really for free? That's unbelievable!
                                 </div>
@@ -221,7 +221,7 @@
                                     <span class="direct-chat-name float-right">Sarah Bullock</span>
                                     <span class="direct-chat-timestamp float-left">23 Jan 2:05 pm</span>
                                 </div>
-                                <img class="direct-chat-img" src="{{url('wolfsynro/adminlte3/dist/img/user3-128x128.jpg')}}" alt="message user image">
+                                <img class="direct-chat-img" src="{{url('wolfsyncro/adminlte3/dist/img/user3-128x128.jpg')}}" alt="message user image">
                                 <div class="direct-chat-text">
                                     You better believe it!
                                 </div>
@@ -231,7 +231,7 @@
                                     <span class="direct-chat-name float-left">Alexander Pierce</span>
                                     <span class="direct-chat-timestamp float-right">23 Jan 5:37 pm</span>
                                 </div>
-                                <img class="direct-chat-img" src="{{url('wolfsynro/adminlte3/dist/img/user1-128x128.jpg')}}" alt="message user image">
+                                <img class="direct-chat-img" src="{{url('wolfsyncro/adminlte3/dist/img/user1-128x128.jpg')}}" alt="message user image">
                                 <div class="direct-chat-text">
                                     Working with AdminLTE on a great new app! Wanna join?
                                 </div>
@@ -241,7 +241,7 @@
                                     <span class="direct-chat-name float-right">Sarah Bullock</span>
                                     <span class="direct-chat-timestamp float-left">23 Jan 6:10 pm</span>
                                 </div>
-                                <img class="direct-chat-img" src="{{url('wolfsynro/adminlte3/dist/img/user3-128x128.jpg')}}" alt="message user image">
+                                <img class="direct-chat-img" src="{{url('wolfsyncro/adminlte3/dist/img/user3-128x128.jpg')}}" alt="message user image">
                                 <div class="direct-chat-text">
                                     I would love to.
                                 </div>
@@ -263,7 +263,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <img class="contacts-list-img" src="{{url('wolfsynro/adminlte3/dist/img/user7-128x128.jpg')}}">
+                                        <img class="contacts-list-img" src="{{url('wolfsyncro/adminlte3/dist/img/user7-128x128.jpg')}}">
                                         <div class="contacts-list-info">
                                             <span class="contacts-list-name">
                                                 Sarah Doe
@@ -275,7 +275,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <img class="contacts-list-img" src="{{url('wolfsynro/adminlte3/dist/img/user3-128x128.jpg')}}">
+                                        <img class="contacts-list-img" src="{{url('wolfsyncro/adminlte3/dist/img/user3-128x128.jpg')}}">
                                         <div class="contacts-list-info">
                                             <span class="contacts-list-name">
                                                 Nadia Jolie
@@ -287,7 +287,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <img class="contacts-list-img" src="{{url('wolfsynro/adminlte3/dist/img/user5-128x128.jpg')}}">
+                                        <img class="contacts-list-img" src="{{url('wolfsyncro/adminlte3/dist/img/user5-128x128.jpg')}}">
                                         <div class="contacts-list-info">
                                             <span class="contacts-list-name">
                                                 Nora S. Vans
@@ -299,7 +299,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <img class="contacts-list-img" src="{{url('wolfsynro/adminlte3/dist/img/user6-128x128.jpg')}}">
+                                        <img class="contacts-list-img" src="{{url('wolfsyncro/adminlte3/dist/img/user6-128x128.jpg')}}">
                                         <div class="contacts-list-info">
                                             <span class="contacts-list-name">
                                                 John K.
@@ -311,7 +311,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        <img class="contacts-list-img" src="{{url('wolfsynro/adminlte3/dist/img/user8-128x128.jpg')}}">
+                                        <img class="contacts-list-img" src="{{url('wolfsyncro/adminlte3/dist/img/user8-128x128.jpg')}}">
                                         <div class="contacts-list-info">
                                             <span class="contacts-list-name">
                                                 Kenneth M.
@@ -352,42 +352,42 @@
                     <div class="card-body p-0">
                         <ul class="users-list clearfix">
                             <li>
-                                <img src="{{url('wolfsynro/adminlte3/dist/img/user1-128x128.jpg')}}" alt="User Image">
+                                <img src="{{url('wolfsyncro/adminlte3/dist/img/user1-128x128.jpg')}}" alt="User Image">
                                 <a class="users-list-name" href="#">Alexander Pierce</a>
                                 <span class="users-list-date">Today</span>
                             </li>
                             <li>
-                                <img src="{{url('wolfsynro/adminlte3/dist/img/user8-128x128.jpg')}}" alt="User Image">
+                                <img src="{{url('wolfsyncro/adminlte3/dist/img/user8-128x128.jpg')}}" alt="User Image">
                                 <a class="users-list-name" href="#">Norman</a>
                                 <span class="users-list-date">Yesterday</span>
                             </li>
                             <li>
-                                <img src="{{url('wolfsynro/adminlte3/dist/img/user7-128x128.jpg')}}" alt="User Image">
+                                <img src="{{url('wolfsyncro/adminlte3/dist/img/user7-128x128.jpg')}}" alt="User Image">
                                 <a class="users-list-name" href="#">Jane</a>
                                 <span class="users-list-date">12 Jan</span>
                             </li>
                             <li>
-                                <img src="{{url('wolfsynro/adminlte3/dist/img/user6-128x128.jpg')}}" alt="User Image">
+                                <img src="{{url('wolfsyncro/adminlte3/dist/img/user6-128x128.jpg')}}" alt="User Image">
                                 <a class="users-list-name" href="#">John</a>
                                 <span class="users-list-date">12 Jan</span>
                             </li>
                             <li>
-                                <img src="{{url('wolfsynro/adminlte3/dist/img/user2-160x160.jpg')}}" alt="User Image">
+                                <img src="{{url('wolfsyncro/adminlte3/dist/img/user2-160x160.jpg')}}" alt="User Image">
                                 <a class="users-list-name" href="#">Alexander</a>
                                 <span class="users-list-date">13 Jan</span>
                             </li>
                             <li>
-                                <img src="{{url('wolfsynro/adminlte3/dist/img/user5-128x128.jpg')}}" alt="User Image">
+                                <img src="{{url('wolfsyncro/adminlte3/dist/img/user5-128x128.jpg')}}" alt="User Image">
                                 <a class="users-list-name" href="#">Sarah</a>
                                 <span class="users-list-date">14 Jan</span>
                             </li>
                             <li>
-                                <img src="{{url('wolfsynro/adminlte3/dist/img/user4-128x128.jpg')}}" alt="User Image">
+                                <img src="{{url('wolfsyncro/adminlte3/dist/img/user4-128x128.jpg')}}" alt="User Image">
                                 <a class="users-list-name" href="#">Nora</a>
                                 <span class="users-list-date">15 Jan</span>
                             </li>
                             <li>
-                                <img src="{{url('wolfsynro/adminlte3/dist/img/user3-128x128.jpg')}}" alt="User Image">
+                                <img src="{{url('wolfsyncro/adminlte3/dist/img/user3-128x128.jpg')}}" alt="User Image">
                                 <a class="users-list-name" href="#">Nadia</a>
                                 <span class="users-list-date">15 Jan</span>
                             </li>

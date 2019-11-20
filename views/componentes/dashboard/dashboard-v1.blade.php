@@ -98,7 +98,7 @@
                             <span class="direct-chat-name float-left">Alexander Pierce</span>
                             <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
                         </div>
-                        <img class="direct-chat-img" src="{{url('wolfsynro/adminlte3/dist/img/user1-128x128.jpg')}}" alt="message user image">
+                        <img class="direct-chat-img" src="{{url('wolfsyncro/adminlte3/dist/img/user1-128x128.jpg')}}" alt="message user image">
                         <div class="direct-chat-text">
                             Is this template really for free? That's unbelievable!
                         </div>
@@ -108,7 +108,7 @@
                             <span class="direct-chat-name float-right">Sarah Bullock</span>
                             <span class="direct-chat-timestamp float-left">23 Jan 2:05 pm</span>
                         </div>
-                        <img class="direct-chat-img" src="{{url('wolfsynro/adminlte3/dist/img/user3-128x128.jpg')}}" alt="message user image">
+                        <img class="direct-chat-img" src="{{url('wolfsyncro/adminlte3/dist/img/user3-128x128.jpg')}}" alt="message user image">
                         <div class="direct-chat-text">
                             You better believe it!
                         </div>
@@ -118,7 +118,7 @@
                             <span class="direct-chat-name float-left">Alexander Pierce</span>
                             <span class="direct-chat-timestamp float-right">23 Jan 5:37 pm</span>
                         </div>
-                        <img class="direct-chat-img" src="{{url('wolfsynro/adminlte3/dist/img/user1-128x128.jpg')}}" alt="message user image">
+                        <img class="direct-chat-img" src="{{url('wolfsyncro/adminlte3/dist/img/user1-128x128.jpg')}}" alt="message user image">
                         <div class="direct-chat-text">
                             Working with AdminLTE on a great new app! Wanna join?
                         </div>
@@ -128,7 +128,7 @@
                             <span class="direct-chat-name float-right">Sarah Bullock</span>
                             <span class="direct-chat-timestamp float-left">23 Jan 6:10 pm</span>
                         </div>
-                        <img class="direct-chat-img" src="{{url('wolfsynro/adminlte3/dist/img/user3-128x128.jpg')}}" alt="message user image">
+                        <img class="direct-chat-img" src="{{url('wolfsyncro/adminlte3/dist/img/user3-128x128.jpg')}}" alt="message user image">
                         <div class="direct-chat-text">
                             I would love to.
                         </div>
@@ -138,7 +138,7 @@
                     <ul class="contacts-list">
                         <li>
                             <a href="#">
-                                <img class="contacts-list-img" src="{{url('wolfsynro/adminlte3/dist/img/user1-128x128.jpg')}}">
+                                <img class="contacts-list-img" src="{{url('wolfsyncro/adminlte3/dist/img/user1-128x128.jpg')}}">
                                 <div class="contacts-list-info">
                                     <span class="contacts-list-name">
                                         Count Dracula
@@ -150,7 +150,7 @@
                         </li>
                         <li>
                             <a href="#">
-                                <img class="contacts-list-img" src="{{url('wolfsynro/adminlte3/dist/img/user7-128x128.jpg')}}">
+                                <img class="contacts-list-img" src="{{url('wolfsyncro/adminlte3/dist/img/user7-128x128.jpg')}}">
                                 <div class="contacts-list-info">
                                     <span class="contacts-list-name">
                                         Sarah Doe
@@ -162,7 +162,7 @@
                         </li>
                         <li>
                             <a href="#">
-                                <img class="contacts-list-img" src="{{url('wolfsynro/adminlte3/dist/img/user3-128x128.jpg')}}">
+                                <img class="contacts-list-img" src="{{url('wolfsyncro/adminlte3/dist/img/user3-128x128.jpg')}}">
                                 <div class="contacts-list-info">
                                     <span class="contacts-list-name">
                                         Nadia Jolie
@@ -174,7 +174,7 @@
                         </li>
                         <li>
                             <a href="#">
-                                <img class="contacts-list-img" src="{{url('wolfsynro/adminlte3/dist/img/user5-128x128.jpg')}}">
+                                <img class="contacts-list-img" src="{{url('wolfsyncro/adminlte3/dist/img/user5-128x128.jpg')}}">
                                 <div class="contacts-list-info">
                                     <span class="contacts-list-name">
                                         Nora S. Vans
@@ -186,7 +186,7 @@
                         </li>
                         <li>
                             <a href="#">
-                                <img class="contacts-list-img" src="{{url('wolfsynro/adminlte3/dist/img/user6-128x128.jpg')}}">
+                                <img class="contacts-list-img" src="{{url('wolfsyncro/adminlte3/dist/img/user6-128x128.jpg')}}">
                                 <div class="contacts-list-info">
                                     <span class="contacts-list-name">
                                         John K.
@@ -198,7 +198,7 @@
                         </li>
                         <li>
                             <a href="#">
-                                <img class="contacts-list-img" src="{{url('wolfsynro/adminlte3/dist/img/user8-128x128.jpg')}}">
+                                <img class="contacts-list-img" src="{{url('wolfsyncro/adminlte3/dist/img/user8-128x128.jpg')}}">
                                 <div class="contacts-list-info">
                                     <span class="contacts-list-name">
                                         Kenneth M.
