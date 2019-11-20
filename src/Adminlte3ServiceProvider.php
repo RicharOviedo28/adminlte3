@@ -25,7 +25,12 @@ class Adminlte3ServiceProvider extends ServiceProvider
     {
         $this->loadViewsFrom(realpath(__DIR__.'/../views'), 'adminlte3');
         // load routes
-        $this->loadRoutesFrom(__DIR__.'/../routes/routes.php');
+        Route::group([
+            'middleware' => 'web',
+        ], function () {
+            $this->loadRoutesFrom(__DIR__.'/../routes/routes.php');
+        });
+        
  
         $this->publishes([
         realpath(__DIR__.'/../views') => base_path('resources/views'),
