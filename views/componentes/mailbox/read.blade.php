@@ -185,7 +185,7 @@
                             </div>
                         </li>
                         <li>
-                            <span class="mailbox-attachment-icon has-img"><img src="../../dist/img/photo1.png"
+                            <span class="mailbox-attachment-icon has-img"><img src="{{url('wolfsyncro/adminlte3/dist/img/photo1.png')}}"
                                     alt="Attachment"></span>
                             <div class="mailbox-attachment-info">
                                 <a href="#" class="mailbox-attachment-name"><i class="fa fa-camera"></i> photo1.png</a>
@@ -197,7 +197,7 @@
                             </div>
                         </li>
                         <li>
-                            <span class="mailbox-attachment-icon has-img"><img src="../../dist/img/photo2.png"
+                            <span class="mailbox-attachment-icon has-img"><img src="{{url('wolfsyncro/adminlte3/dist/img/photo2.png')}}"
                                     alt="Attachment"></span>
                             <div class="mailbox-attachment-info">
                                 <a href="#" class="mailbox-attachment-name"><i class="fa fa-camera"></i> photo2.png</a>
