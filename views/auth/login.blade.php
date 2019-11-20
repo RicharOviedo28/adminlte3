@@ -1,5 +1,5 @@
 @extends('layouts.login')
-
+@section('title', 'Login')
 @section('content')
 <div class="login-box">
     <div class="login-logo">

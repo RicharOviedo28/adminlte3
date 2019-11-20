@@ -1,5 +1,5 @@
 @extends('layouts.register')
-
+@section('title', 'Register')
 @section('content')
 <div class="container">   
     <div class="register-box">
