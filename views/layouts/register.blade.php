@@ -8,13 +8,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- Font Awesome -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="{{url('wolfsyncro/adminlte3/plugins/fontawesome-free/css/all.min.css')}}">
   <!-- Ionicons -->
   <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
   <!-- Theme style -->
   <link rel="stylesheet" href="{{url('wolfsyncro/adminlte3/dist/css/adminlte.min.css')}}">
   <!-- iCheck -->
-  <link rel="stylesheet" href="{{url('wolfsyncro/adminlte3/plugins/iCheck/square/blue.css')}}">
+  <link rel="stylesheet" href="{{url('wolfsyncro/adminlte3/plugins/icheck-bootstrap/icheck-bootstrap.min.css')}}">
   <!-- Google Font: Source Sans Pro -->
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
 </head>
@@ -27,15 +27,7 @@
 <!-- Bootstrap 4 -->
 <script src="{{url('wolfsyncro/adminlte3/plugins/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
 <!-- iCheck -->
-<script src="{{url('wolfsyncro/adminlte3/plugins/iCheck/icheck.min.js')}}"></script>
-<script>
-  $(function () {
-    $('input').iCheck({
-      checkboxClass: 'icheckbox_square-blue',
-      radioClass   : 'iradio_square-blue',
-      increaseArea : '20%' // optional
-    })
-  })
-</script>
+<script src="{{url('wolfsyncro/adminlte3/dist/js/adminlte.min.js')}}"></script>
+
 </body>
 </html>

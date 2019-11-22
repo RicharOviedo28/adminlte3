@@ -12,7 +12,7 @@
 
       <form method="POST" action="{{ route('login') }}">
         @csrf
-      <div class="form-group has-feedback">           
+      <div class="input-group mb-3">           
             <input id="email" type="email" class="form-control @error('email') is-invalid @enderror" name="email" value="{{ old('email') }}" required autocomplete="email" autofocus placeholder="Correo Electronico">
 
             @error('email')
@@ -20,9 +20,13 @@
                     <strong>{{ $message }}</strong>
                 </span>
             @enderror           
-        <span class="fa fa-envelope form-control-feedback"></span>
+            <div class="input-group-append">
+              <div class="input-group-text">
+                <span class="fas fa-envelope"></span>
+              </div>
+            </div>
       </div>
-      <div class="form-group has-feedback">
+      <div class="input-group mb-3">
         <input id="password" type="password" class="form-control @error('password') is-invalid @enderror" name="password" required autocomplete="current-password" placeholder="Contraseña">
 
         @error('password')
@@ -30,16 +34,19 @@
                 <strong>{{ $message }}</strong>
             </span>
         @enderror
-        <span class="fa fa-lock form-control-feedback"></span>
+        <div class="input-group-append">
+          <div class="input-group-text">
+            <span class="fas fa-lock"></span>
+          </div>
+        </div>
       </div>
       <div class="row">
         <div class="col-8">
-          <div class="checkbox icheck">               
-                <input class="form-check-input" type="checkbox" name="remember" id="remember" {{ old('remember') ? 'checked' : '' }}>
-
-                <label class="form-check-label" for="remember">
-                    {{ __('Remember Me') }}
-                </label>               
+          <div class="icheck-primary">
+            <input type="checkbox" id="remember">
+            <label for="remember">
+              Remember Me
+            </label>
           </div>
         </div>
         <!-- /.col -->
