@@ -52,7 +52,7 @@
         <!-- /.col -->
         <div class="col-4">
             <button type="submit" class="btn btn-primary">
-               Entrar
+               Entrar 
             </button>
         </div>
         <!-- /.col -->
