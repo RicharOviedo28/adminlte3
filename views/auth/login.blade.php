@@ -57,23 +57,10 @@
         </div>
         <!-- /.col -->
       </div>
-    </form> 
-
-      <div class="social-auth-links text-center mb-3">
-        <p>- OR -</p>
-        <a href="#" class="btn btn-block btn-primary">
-          <i class="fab fa-facebook mr-2"></i> Sign in using Facebook
-        </a>
-        <a href="#" class="btn btn-block btn-danger">
-          <i class="fab fa-google-plus mr-2"></i> Sign in using Google+
-        </a>
-      </div>
-      <!-- /.social-auth-links -->
-
-      <p class="mb-1">
+    </form>
+    <p class="mb-1">
         @if (Route::has('password.request'))
-        <a class="btn btn-link" href="{{ route('password.request') }}">
-            Olvide mi Contraseña
+        <a class="btn btn-link" href="{{ route('password.request') }}">Olvide mi Contraseña
         </a>
          @endif
     </p>
