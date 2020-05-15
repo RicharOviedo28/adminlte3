@@ -1,6 +1,6 @@
 Instalacion del Paquete Adminlte3
 
-<b>Nueva Instalacion de laravel <b><br>
+<b>Nueva Instalacion de laravel</b><br>
 1º Paso<br>
 Instalacion de laravel <br>
 - composer create-project --prefer-dist laravel/laravel blog
@@ -19,7 +19,7 @@ Publicar los archivos.<br>
 
 - php artisan vendor:publish --provider="wolfsyncro\adminlte3\Adminlte3ServiceProvider" --force
 <br>
-<b>Usamos --force para sobreescribir algunos archivos.<b><br>
+<b>Usamos --force para sobreescribir algunos archivos.</b><br>
 Archivos que se sobreescriben
 - welcome.blade.php
 - home.blade.php
