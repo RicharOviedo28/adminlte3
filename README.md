@@ -2,10 +2,10 @@ Instalacion del Paquete Adminlte3
 
 <b>Nueva Instalacion de laravel</b>
 
-1º Paso
+1º Paso<br>
 Instalacion de laravel <br>
 - composer create-project --prefer-dist laravel/laravel blog
-2º paso
+2º paso<br>
 Instalacion de Auth.<br>
 - composer require laravel/ui
 - php artisan ui vue --auth
