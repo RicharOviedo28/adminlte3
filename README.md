@@ -5,6 +5,7 @@ Instalacion del Paquete Adminlte3
 1º Paso<br>
 Instalacion de laravel <br>
 - composer create-project --prefer-dist laravel/laravel blog<br>
+
 2º paso<br>
 Instalacion de Auth.<br>
 - composer require laravel/ui
